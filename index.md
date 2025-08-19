@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# La trinchera.
+# La trinchera    
 
 Trabajo de seguimiento de los candidatos para la cátedra Periodismo Político
