@@ -10,4 +10,4 @@ show_call_box: true
 
 # La trinchera    
 
-Trabajo de seguimiento de los candidatos para la cátedra Periodismo Político
+**Trabajo de seguimiento de los candidatos para la cátedra Periodismo Político**
