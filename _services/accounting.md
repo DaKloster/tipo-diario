@@ -6,7 +6,7 @@ weight: 1
 
 [Enlace ](https://docs.google.com/document/d/1bM7GGp7r8nEfgkfU1_GnEVW3IXos_Onb_aJ0YpJ1RPY/edit?usp=sharing)
 
-[Asignación dinámica de memoria ](Asignacion-dinamica.pdf)
+[Asignación dinámica de memoria ](https://dakloster.github.io/tipo-diario/services/Asignacion-dinamica.pdf)
 
 
 <!--Financial accounting (or financial accountancy) is the field of accounting concerned with the summary, analysis and reporting of financial transactions related to a business.-->
