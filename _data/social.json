@@ -1,9 +1,5 @@
 [
-  {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
-  },
+  
   {
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
@@ -23,11 +19,6 @@
       "name": "Instagram",
       "link": "https://instagram.com",
       "image": "images/social/instagram.svg"
-  },
-  {
-      "name": "Discord",
-      "link": "https://discord.com",
-      "image": "images/social/discord.svg"
   }
 
 ]
