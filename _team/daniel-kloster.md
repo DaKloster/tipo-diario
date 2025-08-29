@@ -1,6 +1,7 @@
 ---
 title: "Daniel Kloster"
 jobtitle: "Licenciado en Sistema"
+promoted: true
 weight: 1
 ---
 
