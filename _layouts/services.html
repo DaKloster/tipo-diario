@@ -22,7 +22,7 @@ bodyClass: "page-services"
   <div class="row">
     <!--{% for service in site.services %} -->
     
-    {% assign promoted_services = site.services | where: "promoted", true | sort: "weight" %}
+    {% assign promoted_services = site.services | where: "date", empty | sort: "weight" %}
         {% for services in promoted_services %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
