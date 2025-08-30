@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="346" version="1.1" width="614" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs />
+  <circle cx="52" cy="0" fill="black" r="0.7" />
+  <circle cx="378" cy="0" fill="black" r="0.7" />
+  <circle cx="12" cy="2" fill="black" r="0.7" />
+  <circle cx="378" cy="2" fill="black" r="0.7" />
+  <circle cx="512" cy="2" fill="black" r="0.7" />
+  <circle cx="514" cy="2" fill="black" r="0.7" />
+  <circle cx="518" cy="2" fill="black" r="0.7" />
+  <circle cx="522" cy="2" fill="black" r="0.7" />
+  <circle cx="524" cy="2" fill="black" r="0.7" />
+  <circle cx="566" cy="2" fill="black" r="0.7" />
+  <circle cx="570" cy="2" fill="black" r="0.7" />
+  <circle cx="572" cy="2" fill="black" r="0.7" />
+  <circle cx="578" cy="2" fill="black" r="0.7" />
+  <!-- ... (continúa con muchos círculos que representan los bordes detectados) ... -->
+</svg>
