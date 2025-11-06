@@ -17,7 +17,7 @@ Armar um perfil de un candidato. Quién es, alianzas políticas, sus apoyos, por
 
 # Objectives
 <!--  
-Financial accounting and financial reporting are often used as synonyms.
+Financial cuenta and financial reporting are often used as synonyms.
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
