@@ -11,7 +11,7 @@ weight: -2
 
 <!--Financial accounting (or financial accountancy) is the field of accounting concerned with the summary, analysis and reporting of financial transactions related to a business.-->
 
-Armar um perfil de un candidato. Quién es, alianzas políticas, sus apoyos, porqué llegó ahi, quién lo banca.
+Armar um perfil de un candidato. Quién es, alianzas políticas, sus apoyos, porqué llegó ahi, quién lo banca y porqué.
 ---
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
