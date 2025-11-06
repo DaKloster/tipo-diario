@@ -31,14 +31,6 @@ jobs:
   build: 
     runs-on: ubuntu-latest
     steps:
-       - name: Install build dependencies
-        run: sudo apt-get update && sudo apt-get install -y build-essential libffi-dev ruby-dev make
-      # ...other steps...
-      - name: Remove bundle cache
-        run: rm -rf vendor/bundle
-      - name: Install dependencies
-        run: bundle install
-      # termina el cambio
       - name: Checkout
         uses: actions/checkout@v4
           
