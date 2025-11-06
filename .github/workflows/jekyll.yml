@@ -31,7 +31,7 @@ jobs:
   build: 
     runs-on: ubuntu-latest
     steps:
-      ##
+      # Empieza el cambio
        - name: Install build dependencies
         run: sudo apt-get update && sudo apt-get install -y build-essential libffi-dev ruby-dev make
       # ...other steps...
@@ -39,7 +39,7 @@ jobs:
         run: rm -rf vendor/bundle
       - name: Install dependencies
         run: bundle install
-      ##
+      # termina el cambio
       - name: Checkout
         uses: actions/checkout@v4
           
